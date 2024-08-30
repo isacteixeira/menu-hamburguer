@@ -1,0 +1,12 @@
+@import url("style/header.css");
+@import url("style/banner.css");
+@import url("style/carrossel.css");
+:root{
+    --cor-de-fundo: hsl(220, 8%, 93%);
+    --branco: #ffffff;
+    --laranja: #EB9B00;
+    --azul-degrade: linear-
+}
+body{
+    background-color: var(--cor-de-fundo);
+}
